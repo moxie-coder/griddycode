@@ -2,3 +2,5 @@
 .godot/
 Tools/target
 Builds/*
+/Build
+export_presets.cfg
